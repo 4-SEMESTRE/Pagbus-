@@ -71,7 +71,7 @@ A equipe do *PagBus* é composta por profissionais multidisciplinares da *Infini
 
 | Equipe | Função |
 |--------|--------|
-| *Cauã Carvalho* | Product Owner |
+| [**Cauã Carvalho**](https://github.com/Arcano06) | Product Owner |
 | *Junior Onorato* | Scrum Master |
 | *Caique Silva* | Desenvolvedor |
 
